@@ -9,11 +9,11 @@ You will also need the SITL port number.
 I have also made the latitude and longitude into environment variables.
 
 Ex:
-MP_IP=127.0.0.1
-MP_PORT=14551
-SITL_PORT=5760
-LAT=37.5407
-LON=-122.361
+* MP_IP=127.0.0.1
+* MP_PORT=14551
+* SITL_PORT=5760
+* LAT=37.5407
+* LON=-122.361
 
 
 ### Initialization
