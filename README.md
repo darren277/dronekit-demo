@@ -1,5 +1,9 @@
 # An experiment with DroneKit
 
+## About
+
+This repository was used as a proof of concept for implementation of DroneKit for remote control of a drone.
+
 ## Instructions
 
 ### Environment variables
